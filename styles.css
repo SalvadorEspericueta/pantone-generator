@@ -1,0 +1,210 @@
+:root{
+	--hue: 120;
+	--saturation: 100;
+	--lightness: 50;
+	--h1: 20;
+	--h2: 20;
+	--h3: 20;
+	--h4: 20;
+	--h5: 20;
+	--h6: 20;
+	--h7: 20;
+	--h8: 20;
+	--h9: 20;
+	--h10: 20;
+	--h11: 20;
+	--h12: 20;
+	--h13: 20;
+	--h14: 20;
+	--h15: 20;
+	--alt: 670px;
+}
+
+#b1 {
+	background: hsl(var(--hue), calc(var(--saturation) * 1%), calc(var(--h1) * 1%));
+	padding: 5px;
+	height: 20px;
+	width: 80px;
+	margin-top: 5px;
+	margin-right: auto;
+	margin-bottom: 15px;
+	margin-left: auto;
+	cursor: pointer;
+}
+
+#b2 {
+	background: hsl(var(--hue), calc(var(--saturation) * 1%), calc(var(--h2) * 1%));
+	padding: 5px;
+	height: 20px;
+	width: 80px;
+	margin-top: 5px;
+	margin-right: auto;
+	margin-bottom: 15px;
+	margin-left: auto;
+	cursor: pointer;
+}
+
+#b3 {
+	background: hsl(var(--hue), calc(var(--saturation) * 1%), calc(var(--h3) * 1%));
+
+	padding: 5px;
+	height: 20px;
+	width: 80px;
+	margin-top: 5px;
+	margin-right: auto;
+	margin-bottom: 15px;
+	margin-left: auto;
+	cursor: pointer;
+}
+
+#b4 {
+	background: hsl(var(--hue), calc(var(--saturation) * 1%), calc(var(--h4) * 1%));
+	padding: 5px;
+	height: 20px;
+	width: 80px;
+	margin-top: 5px;
+	margin-right: auto;
+	margin-bottom: 15px;
+	margin-left: auto;
+	cursor: pointer;
+}
+
+#b5 {
+	background: hsl(var(--hue), calc(var(--saturation) * 1%), calc(var(--h5) * 1%));
+	padding: 5px;
+	height: 20px;
+	width: 80px;
+	margin-top: 5px;
+	margin-right: auto;
+	margin-bottom: 15px;
+	margin-left: auto;
+	cursor: pointer;
+}
+
+#b6 {
+	background: hsl(var(--hue), calc(var(--saturation) * 1%), calc(var(--h6) * 1%));
+	padding: 5px;
+	height: 20px;
+	width: 80px;
+	margin-top: 5px;
+	margin-right: auto;
+	margin-bottom: 15px;
+	margin-left: auto;
+	cursor: pointer;
+}
+
+#b7 {
+	background: hsl(var(--hue), calc(var(--saturation) * 1%), calc(var(--h7) * 1%));
+	padding: 5px;
+	height: 20px;
+	width: 80px;
+	margin-top: 5px;
+	margin-right: auto;
+	margin-bottom: 15px;
+	margin-left: auto;
+	cursor: pointer;
+}
+
+#b8 {
+	background: hsl(var(--hue), calc(var(--saturation) * 1%), calc(var(--h8) * 1%));
+	padding: 5px;
+	height: 20px;
+	width: 80px;
+	margin-top: 5px;
+	margin-right: auto;
+	margin-bottom: 15px;
+	margin-left: auto;
+	cursor: pointer;
+}
+
+#b9 {
+	background: hsl(var(--hue), calc(var(--saturation) * 1%), calc(var(--h9) * 1%));
+	padding: 5px;
+	height: 20px;
+	width: 80px;
+	margin-top: 5px;
+	margin-right: auto;
+	margin-bottom: 15px;
+	margin-left: auto;
+	cursor: pointer;
+}
+
+#b10 {
+	background: hsl(var(--hue), calc(var(--saturation) * 1%), calc(var(--h10) * 1%));
+	padding: 5px;
+	height: 20px;
+	width: 80px;
+	margin-top: 5px;
+	margin-right: auto;
+	margin-bottom: 15px;
+	margin-left: auto;
+	cursor: pointer;
+}
+
+#b11 {
+	background: hsl(var(--hue), calc(var(--saturation) * 1%), calc(var(--h11) * 1%));
+	padding: 5px;
+	height: 20px;
+	width: 80px;
+	margin-top: 5px;
+	margin-right: auto;
+	margin-bottom: 15px;
+	margin-left: auto;
+	cursor: pointer;
+}
+
+#b12 {
+	background: hsl(var(--hue), calc(var(--saturation) * 1%), calc(var(--h12) * 1%));
+	padding: 5px;
+	height: 20px;
+	width: 80px;
+	margin-top: 5px;
+	margin-right: auto;
+	margin-bottom: 15px;
+	margin-left: auto;
+	cursor: pointer;
+}
+
+#b13 {
+	background: hsl(var(--hue), calc(var(--saturation) * 1%), calc(var(--h13) * 1%));
+	padding: 5px;
+	height: 20px;
+	width: 80px;
+	margin-top: 5px;
+	margin-right: auto;
+	margin-bottom: 15px;
+	margin-left: auto;
+	cursor: pointer;
+}
+
+#b14 {
+	background: hsl(var(--hue), calc(var(--saturation) * 1%), calc(var(--h14) * 1%));
+	padding: 5px;
+	height: 20px;
+	width: 80px;
+	margin-top: 5px;
+	margin-right: auto;
+	margin-bottom: 15px;
+	margin-left: auto;
+	cursor: pointer;
+}
+
+#b15 {
+	background: hsl(var(--hue), calc(var(--saturation) * 1%), calc(var(--h15) * 1%));
+	padding: 5px;
+	height: 20px;
+	width: 80px;
+	margin-top: 5px;
+	margin-right: auto;
+	margin-bottom: 15px;
+	margin-left: auto;
+	cursor: pointer;
+}
+
+.cont {
+	width: fixed;
+	height: var(--alt);
+	margin-left: 10px;
+	margin-right: 90%;
+	background-color: black;
+}
